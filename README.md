@@ -78,12 +78,3 @@ As the application server market matures, high performance becomes a stronger cr
 
 ## Result:
 The application server and network server data are added to the data dashboard using the visualization editor.
-
-
-
-
-
-## Result: 
-
-  The application server and network server data are added to the data dashboard using the visualization editor.
-    
